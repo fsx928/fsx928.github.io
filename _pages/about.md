@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://fsx928.github.io/images/shaoxiongfeng_image.jpg?raw=true" alt="Photo" style="height: 250px;"/> 
+  <img src="https://fsx928.github.io/images/landscape.png?raw=true" alt="Photo" style="height: 250px;"/> 
 </p>
 
 
