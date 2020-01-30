@@ -1,4 +1,10 @@
 ---
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+---
 <br>
 <b>[Posterior-GAN: Towards Informative and Coherent Response Generation with Posterior Generative Adversarial Network](http://shaoxiongfeng.com/publications/AAAI2020-PosteriorGAN)
 </b> 
