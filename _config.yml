@@ -87,6 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
+  github           : "fsx928"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +97,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fsx928"
   google_plus      :
   keybase          :
   instagram        :
