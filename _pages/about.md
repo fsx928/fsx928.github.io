@@ -15,4 +15,4 @@ redirect_from:
 
 
 # Recent News
-* 2019-12-13: One paper was accepted at AAAI 2020.
+* 2019-12-13: One paper accepted to AAAI 2020.
