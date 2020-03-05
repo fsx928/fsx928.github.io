@@ -7,7 +7,7 @@ date: 2020-2-7
 citation: '<b>Shaoxiong Feng</b>, Hongshen Chen, Kan Li, and Dawei Yin. <i>The 34st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2020</b>.'
 ---
 Link: 
-[[Poster]](https://www.dropbox.com/s/apr2lp2pgl97tao/Poster.pdf?dl=0)
+[[arXiv]](https://arxiv.org/abs/2003.02020)
 
 
 ## Abstract
