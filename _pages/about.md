@@ -15,5 +15,6 @@ redirect_from:
 
 
 # Recent News
+* 2020-09-16: One paper accepted to EMNLP 2020.
 * 2020-01-18: Invited to serve as Reviewer of ACL 2020.
 * 2019-12-13: One paper accepted to AAAI 2020.
