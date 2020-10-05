@@ -18,4 +18,4 @@ author_profile: true
 </b> 
 <br> 
 <b>Shaoxiong Feng</b>, Xuancheng Ren, Hongshen Chen, Bin Sun, Kan Li, and Xu Sun.
-<i>The 34th AAAI Conference on Artificial Intelligence</i>. <b>EMNLP 2020</b>.
+<i>The 2020 Conference on Empirical Methods in Natural Language Processing</i>. <b>EMNLP 2020</b>.
