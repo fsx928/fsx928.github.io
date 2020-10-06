@@ -6,7 +6,7 @@ venue: "The 2020 Conference on Empirical Methods in Natural Language Processing"
 date: 2020-11-16
 citation: '<b>Shaoxiong Feng</b>, Xuancheng Ren, Hongshen Chen, Bin Sun, Kan Li, and Xu Sun. <i>The 2020 Conference on Empirical Methods in Natural Language Processing</i>. <b>EMNLP 2020</b>.'
 ---
-Link: [[arxiv]()]
+Link: [[arxiv](http://arxiv.org/abs/2010.01893)]
 
 
 ## Abstract
