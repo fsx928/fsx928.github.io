@@ -19,3 +19,11 @@ author_profile: true
 <br> 
 <b>Shaoxiong Feng</b>, Xuancheng Ren, Hongshen Chen, Bin Sun, Kan Li, and Xu Sun.
 <i>The 2020 Conference on Empirical Methods in Natural Language Processing</i>. <b>EMNLP 2020</b>.
+
+---
+<br>
+<b>[Collaborative Group Learning](http://shaoxiongfeng.com/publications/AAAI2021-CGL)
+</b> 
+<br> 
+<b>Shaoxiong Feng</b>, Hongshen Chen, Xuancheng Ren, Zhuoye Ding, Kan Li, and Xu Sun.
+<i>The 35th AAAI conference on Artificial Intelligence</i>. <b>AAAI 2021</b>.
