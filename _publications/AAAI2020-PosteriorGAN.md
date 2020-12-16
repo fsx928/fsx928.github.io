@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/AAAI2020-PosteriorGAN
 venue: "The Thirty-Fourth AAAI conference on Artificial Intelligence (AAAI-20)"
 date: 2020-2-7
-citation: '<b>Shaoxiong Feng</b>, Hongshen Chen, Kan Li, and Dawei Yin. <i>The 34st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2020</b>.'
+citation: '<b>Shaoxiong Feng</b>, Hongshen Chen, Kan Li, and Dawei Yin. <i>The 34th AAAI conference on Artificial Intelligence</i>. <b>AAAI 2020</b>.'
 ---
 Link: 
 [[arXiv]](https://arxiv.org/abs/2003.02020)
