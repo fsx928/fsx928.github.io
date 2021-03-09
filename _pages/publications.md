@@ -27,3 +27,11 @@ author_profile: true
 <br> 
 <b>Shaoxiong Feng</b>, Hongshen Chen, Xuancheng Ren, Zhuoye Ding, Kan Li, and Xu Sun.
 <i>The 35th AAAI conference on Artificial Intelligence</i>. <b>AAAI 2021</b>.
+
+---
+<br>
+<b>[Multi-View Feature Representation for Dialogue Generation with Bidirectional Distillation](http://shaoxiongfeng.com/publications/AAAI2021-MRBD)
+</b> 
+<br> 
+<b>Shaoxiong Feng</b>, Xuancheng Ren, Kan Li, and Xu Sun.
+<i>The 35th AAAI conference on Artificial Intelligence</i>. <b>AAAI 2021</b>.
